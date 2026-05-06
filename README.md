@@ -60,7 +60,7 @@ A **Streamlit web app** is included to allow human reviewers to interact with th
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone <https://github.com/Dshah1003/CS4375-MLProject>
 cd human-in-the-loop
 
 # Install dependencies
